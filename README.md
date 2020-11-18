@@ -1,11 +1,13 @@
 ## Overview ##
 
-[🚀 **Live Portfolio Site**](https://wizlee.dev)
+- Currently, the portfolio site is static. It uses only html, css and vanila Javascript.
+- [🚀 **Live Portfolio Site**](https://wizlee.dev)
 
 ## Brief Timeline ##
 
-1. Complete setting up template and CNAME
-2. Exploring and tinkering with the template
+1. Complete setting up template and CNAME.
+2. Edit template with personal details.
+3. Exploring and tinkering with the template.
 
 
 ### Credits ###
