@@ -1,6 +1,6 @@
 ## Overview ##
 
-(🚀 **Live Portfolio Site**)[https://wizlee.dev]
+[🚀 **Live Portfolio Site**](https://wizlee.dev)
 
 ## Brief Timeline ##
 
