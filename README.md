@@ -6,8 +6,9 @@
 ## Brief Timeline ##
 
 1. Complete setting up template and CNAME.
-2. Edit template with personal details.
-3. Exploring and tinkering with the template.
+2. On-going exploration and tinkering with the template.
+3. Completed the landing page.
+4. Completed footer with updated social media URLs.
 
 
 ### Credits ###
