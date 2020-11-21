@@ -1,6 +1,7 @@
 ## Overview ##
 
-- Currently, the portfolio site is static. It uses html, css and vanila Javascript.
+- This portfolio is a static site. 
+- It is a responsive webpage thus is expected to look nice in either a computer or a phone ;)
 - [🚀 **Live Portfolio Site**](https://wizlee.dev)
 
 ## Brief Timeline ##
@@ -9,9 +10,10 @@
 2. On-going exploration and tinkering with the template.
 3. Complete the landing page.
 4. Complete footer with updated social media URLs.
+5. Put all work in progress content into a collapsible section.
 
 
-### Credits ###
+## Credits ##
 
     Story by HTML5 UP:
         html5up.net | @ajlkn

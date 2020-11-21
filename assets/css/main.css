@@ -1,6 +1,5 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400,500,500i");
-
 /*
 	Story by HTML5 UP
 	html5up.net | @ajlkn
@@ -5964,6 +5963,67 @@ body.is-preload .gallery.onload-fade-in article .image img {
     .gallery.style1.big article .caption {
         padding: 1rem;
     }
+}
+
+/* For Work In Progress Content */
+
+.gallery.style1.full article {
+    width: 100%;
+    max-height: 80vh;
+    cursor: pointer;
+    pointer-events: all;
+}
+
+.gallery.style1.full article .caption {
+    padding: 6rem;
+}
+
+@media screen and (max-width: 1280px) {
+    .gallery.style1.full article {
+        width: 100%;
+        max-height: 80vh;
+    }
+    .gallery.style1.full article .caption {
+        padding: 4rem;
+    }
+}
+
+@media screen and (max-width: 980px) {
+    .gallery.style1.full article {
+        width: 100%;
+        max-height: 80vh;
+    }
+    .gallery.style1.full article .caption {
+        padding: 3rem;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .gallery.style1.full article {
+        width: 100%;
+        max-height: 80vh;
+    }
+    .gallery.style1.full article .caption {
+        padding: 1rem;
+    }
+}
+
+.wip {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    -moz-transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.wip.collapsable {
+    max-width: 0;
+    max-height: 0;
+    overflow: hidden;
 }
 
 /* Gallery (style2) */
