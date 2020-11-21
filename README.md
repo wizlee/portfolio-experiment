@@ -1,14 +1,14 @@
 ## Overview ##
 
-- Currently, the portfolio site is static. It uses only html, css and vanila Javascript.
+- Currently, the portfolio site is static. It uses html, css and vanila Javascript.
 - [🚀 **Live Portfolio Site**](https://wizlee.dev)
 
 ## Brief Timeline ##
 
 1. Complete setting up template and CNAME.
 2. On-going exploration and tinkering with the template.
-3. Completed the landing page.
-4. Completed footer with updated social media URLs.
+3. Complete the landing page.
+4. Complete footer with updated social media URLs.
 
 
 ### Credits ###
