@@ -5966,7 +5966,7 @@ body.is-preload .gallery.onload-fade-in article .image img {
     }
 }
 
-/* For Work In Progress Content */
+/* For WIP Content */
 
 .gallery.style1.full article {
     width: 100%;
@@ -5977,6 +5977,7 @@ body.is-preload .gallery.onload-fade-in article .image img {
 
 .gallery.style1.full article .caption {
     padding: 6rem;
+    opacity: 1;
 }
 
 @media screen and (max-width: 1280px) {
