@@ -344,9 +344,9 @@
     $('#toggle-collapsable').click(function () {
         $('.wip')[0].classList.toggle('collapsable');
 
-        var text = $('#plus-minus-toggle').text();
-        $('#plus-minus-toggle').text(
-            text == "Expand  \u2795" ? "Expand  \u2796" : "Expand  \u2795");
+        var text = $('.append-plus-minus-toggle').text();
+        $('.append-plus-minus-toggle').text(
+            text == "Expand \u2795" ? "Expand \u2796" : "Expand \u2795");
     });
 
 })(jQuery);

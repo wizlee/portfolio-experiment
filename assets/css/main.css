@@ -6234,6 +6234,10 @@ body.is-preload .gallery.onload-fade-in article .image img {
     font-size: 0.8rem;
 }
 
+.gallery.style2 article {
+    cursor: pointer;
+}
+
 .gallery.style2 article .caption a {
     pointer-events: auto;
 }

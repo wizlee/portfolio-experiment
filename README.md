@@ -12,7 +12,7 @@
 4. Complete footer with updated social media URLs.
 5. Put all work in progress content into a collapsible section.
 6. Showcase gallery & grid layout in work in progress section. 
-
+7. Use work in progress section to showcase Web Design Journey. In the same time, make the expandable section more user friendly to touch screen devices.  
 
 ## Credits ##
 
