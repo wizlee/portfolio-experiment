@@ -97,7 +97,9 @@
 
     // Smooth scroll.
     $('.smooth-scroll').scrolly();
+    $('.smooth-scroll-top').scrolly({ anchor: 'top' });
     $('.smooth-scroll-middle').scrolly({ anchor: 'middle' });
+    $('.smooth-scroll-bottom').scrolly({ anchor: 'bottom' });
 
     // Wrapper.
     $wrapper.children()

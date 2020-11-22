@@ -11,6 +11,7 @@
 3. Complete the landing page.
 4. Complete footer with updated social media URLs.
 5. Put all work in progress content into a collapsible section.
+6. Showcase gallery & grid layout in work in progress section. 
 
 
 ## Credits ##
