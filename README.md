@@ -1,8 +1,9 @@
 ## Overview ##
 
-- This portfolio is a static site. 
-- It is a responsive webpage thus is expected to look nice in either a computer or a phone ;)
-- [🚀 **Live Portfolio Site**](https://wizlee.dev)
+- This portfolio is 'version 1' of my portfolio live @ https://wizlee.github.io/portfolio/. 
+- This site is now a showcase of my learning in Vanilla JS, HTML & CSS. 
+- It is a still responsive webpage thus is expected to look nice in either a computer or a phone ;)
+- [🚀 **Press here to visit my latest portfolio site**](https://wizlee.dev)
 
 ## Brief Timeline ##
 
@@ -12,7 +13,8 @@
 4. Complete footer with updated social media URLs.
 5. Put all work in progress content into a collapsible section.
 6. Showcase gallery & grid layout in work in progress section. 
-7. Use work in progress section to showcase Web Design Journey. In the same time, make the expandable section more user friendly to touch screen devices.  
+7. Use work in progress section to showcase Web Design Journey. In the same time, make the expandable section more user friendly to touch screen devices. 
+8. Remove this github page CDNAME and Alias from wizlee.dev as the latest portfolio site now is revamped and deployed via netlify.
 
 ## Credits ##
 
