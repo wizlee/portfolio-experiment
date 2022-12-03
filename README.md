@@ -1,8 +1,8 @@
 ## Overview ##
 
-- This portfolio is 'version 1' of my portfolio live @ https://wizlee.github.io/portfolio/. 
-- This site is now a showcase of my learning in Vanilla JS, HTML & CSS. 
-- It is a still responsive webpage thus is expected to look nice in either a computer or a phone ;)
+- This portfolio is an experiment to play around with vanilla JS, HTML and CSS. 
+- It is live @ https://wizlee.github.io/portfolio-experiment/. 
+- Despite not using any framework, it is still a responsive webpage thus is expected to look nice in either a computer or a phone ;)
 - [🚀 **Press here to visit my latest portfolio site**](https://wizlee.dev)
 
 ## Brief Timeline ##
@@ -15,6 +15,7 @@
 6. Showcase gallery & grid layout in work in progress section. 
 7. Use work in progress section to showcase Web Design Journey. In the same time, make the expandable section more user friendly to touch screen devices. 
 8. Remove this github page CDNAME and Alias from wizlee.dev as the latest portfolio site now is revamped and deployed via netlify.
+9. Change project name from portfolio to portfolio-experiment to better convey this is not my current portfolio.
 
 ## Credits ##
 
